@@ -1,15 +1,14 @@
-# Plassonade's Dashboard
+# Dashboard de Plassonade
+El padre de la Inteligencia Ambiental (AmI), Mark Weiser, dijo:
+> Las tecnologías más profundas son aquellas que desaparecen. Se entrelazan en el tejido de la vida cotidiana hasta que son indistinguibles de ella.
 
-The father of Ambient Intelligence (AmI), Mark Weiser, said:
-> The most profound technologies are those that disappear. 
-> They weave themselves into the fabric of everyday life until they are indistinguishable from it.
+La intención detrás de este dashboard es mostrar solo la información necesaria (no datos crudos) de manera concisa y comprensible para el usuario final del "Hogar Inteligente / Smart Home".
 
-The intention behind creating this dashboard is to display only the necessary information (not raw data) in a concise and comprehensive manner to the end user of the Smart Home.
+En un "Hogar Inteligente / Smart Home" ideal, los dashboards no serían necesarios. Sin embargo, hay momentos en los que todavía necesitas tomar tu teléfono inteligente para ajustar algunas cosas. 
 
-In an ideal Smart Home, dashboards wouldn't be needed. However, there are times when you still need to pick up your phone to adjust a few things. So, let's make a cool dashboard!
+¡Así que hagamos un dashboard genial!
 
-
-🚧 This is a work in progress, I will update this repository regularly as the dashboard changes 🚧
+🚧 Esto es un trabajo en progreso, actualizaré este repositorio regularmente a medida que el dashboard cambie 🚧
 
 ## Disclaimer
 
